@@ -7,7 +7,7 @@ Programmed in an attempt to improve my programming skills in Python
 Uses a webserver powered by Flask and server requests are handled with the Requests module.
 
 # Initial Setup:
- - Ensure to install both dependendies, Flask and Requests, or the program will not work.
+ - Ensure to install both dependendies, Flask and Requests.
  - Run "host.py"
   - Run "ClientV2.py"
   
