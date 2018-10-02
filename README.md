@@ -2,9 +2,11 @@
 
 A simple Blockchain example programmed in Python3.
 
-I begun this project a way to improve my programming and algorithmic thinking skills. Eventually it turned into a fully fledged project I completed in a little over 9 months.
+I begun this project a way to improve my programming algorithmic thinking and Object Oriented Programming skills. Eventually it turned into a fully fledged project I completed in a little over 9 months.
 
 The client is able to communicate with the Flask server using the Requests module.
+
+All of the code comes with a comment, describing what the section does.
 
 # Initial Setup:
  - Ensure to install both Python dependendies, Flask and Requests.
