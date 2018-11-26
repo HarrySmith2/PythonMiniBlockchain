@@ -40,7 +40,7 @@ from random import choice
 from math import ceil, floor
 from time import strftime, localtime, time, sleep
 from secrets import token_hex
-from threading import Thread
+# from threading import Thread # Experimental. Attempted to mine multiple blocks at once, feature not present in this version
 
 import MiniBlockChainV3
 import TransactionsV3
