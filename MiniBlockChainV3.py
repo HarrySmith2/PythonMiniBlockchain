@@ -1,5 +1,4 @@
 # 1.1 Importing standard libary modules
-import threading
 import hashlib
 from datetime import datetime
 
