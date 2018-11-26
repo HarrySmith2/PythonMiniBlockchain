@@ -2,7 +2,7 @@
 import json
 import os,sys,platform
 from time import sleep
-import threading
+# import threading # Planned to handle multiple connections to server at once
 import hashlib
 
 # 1.2 Try to import requests, if not present inform user to install it.
